@@ -1,0 +1,82 @@
+section {
+    border: 2px solid black;
+    margin: 20px 10px;
+    padding: 10px 20px;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.colours {
+    text-align: center;
+}
+
+.colours div {
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#eggshell {
+    background-color: hsl(52, 50%, 91%);
+}
+
+#terracotta {
+    background-color: hsl(13, 68%, 63%);
+}
+
+#independence {
+    background-color: hsl(234, 20%, 30%);
+}
+
+#greensheen {
+    background-color: hsl(151, 24%, 60%);
+}
+
+#deepchampagne {
+    background-color: hsl(37, 79%, 75%);
+}
+
+.fonts p {
+    font-size: 24px;
+}
+
+.font1 {
+    font-family: "Dancing Script";
+}
+
+.font2 {
+    font-family: "Indie Flower";
+}
+
+.font3 {
+    font-family: "Playfair Display";
+}
+
+#h1style {
+    font-size: 50px;
+    font-weight: 400;
+    font-family: "Dancing Script";
+}
+
+#h2style {
+    font-size: 35px;
+    font-weight: 400;
+    font-family: "Playfair Display";
+}
+
+#pstyle {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: "Indie Flower";
+}
